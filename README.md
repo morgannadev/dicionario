@@ -6,9 +6,9 @@ Neste repositório, teremos palavras técnicas explicadas de maneira simples. Co
 <li>▶️ Costumamos chamar de ambiente o "lugar" ou os "servidores" onde o que foi desenvolvido fica disponível para testes, validações, pessoas usuárias finais ou demais necessidades. Esse "servidor" seria como um computador. Pode ser um computador físico ou disponível na nuvem. Alguns tipos de ambiente:</li>
 <ul>
 <li>Local: o computador onde estamos desenvolvendo;</li>
-<li>Dev: onde está disponível o que desenvolvemos para os primeiros testes;</li
-<li>Homol: onde está disponível o que desenvolvemos para demais testes e validações, até mesmo com outros sistemas ou serviços;</li>
-<li>Prod: onde está disponível para pessoas usuárias finais terem acesso ao produto.</li>
+<li>Dev (desenvolvimento): onde está disponível o que desenvolvemos para os primeiros testes;</li
+<li>Homol (homologação): onde está disponível o que desenvolvemos para demais testes e validações, até mesmo com outros sistemas ou serviços;</li>
+<li>Prod (produção): onde está disponível para pessoas usuárias finais terem acesso ao produto.</li>
 </ul>
 E quando dissemos "o ambiente caiu"? Isso significa que tem algo de errado ou com algum serviço, ou com o nosso código, ou o equipamento.
 <li>✅ Link da postagem para divulgação (aguardando): [link](https://www.instagram.com/p/CnP4VARJl-G/).</li>
