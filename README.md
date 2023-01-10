@@ -1,9 +1,18 @@
 # Dicionário Tech :octocat:
 Neste repositório, teremos palavras técnicas explicadas de maneira simples. Conteúdo tech para quem não é tech poder entender o que são aquelas palavrinhas que pessoas desenvolvedoras, pessoas SREs e muito mais usam nas reuniões e projetos.
 
-### 📝 AMBIENTE (dev, homolog e prod):
-- ▶️ Significado. 
-- ✅ Link da postagem para divulgação (aguardando): [link]().
+### 📝 AMBIENTE (local, dev, homol e prod):
+<ul>
+<li>▶️ Costumamos chamar de ambiente o "lugar" ou os "servidores" onde o que foi desenvolvido fica disponível para testes, validações, pessoas usuárias finais ou demais necessidades. Esse "servidor" seria como um computador. Pode ser um computador físico ou disponível na nuvem. Alguns tipos de ambiente:</li>
+<ul>
+<li>Local: o computador onde estamos desenvolvendo;</li>
+<li>Dev: onde está disponível o que desenvolvemos para os primeiros testes;</li
+<li>Homol: onde está disponível o que desenvolvemos para demais testes e validações, até mesmo com outros sistemas ou serviços;</li>
+<li>Prod: onde está disponível para pessoas usuárias finais terem acesso ao produto.</li>
+</ul>
+E quando dissemos "o ambiente caiu"? Isso significa que tem algo de errado ou com algum serviço, ou com o nosso código, ou o equipamento.
+<li>✅ Link da postagem para divulgação (aguardando): [link](https://www.instagram.com/p/CnP4VARJl-G/).</li>
+</ul>
 
 ### 📝 API:
 - ▶️ API é uma sigla que, em inglês, significa: Application Programming Interface. Traduzindo para português, seria uma interface programada para aplicações. É uma estrutura de código que atende a alguns requisitos, seguindo normas e padrões de desenvolvimento. Facilita a organização de sistemas grandes. Disponibiliza funcionalidades e informações para aplicativos e sites. Por exemplo: API dos Correios. Disponibiliza consulta de CEP e endereço de maneira simplificada.
