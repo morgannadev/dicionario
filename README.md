@@ -11,7 +11,7 @@ Neste repositório, teremos palavras técnicas explicadas de maneira simples. Co
 <li>Prod (produção): onde está disponível para pessoas usuárias finais terem acesso ao produto.</li>
 </ul>
 E quando dissemos "o ambiente caiu"? Isso significa que tem algo de errado ou com algum serviço, ou com o nosso código, ou o equipamento.
-<li>✅ Link da postagem para divulgação: [link](https://www.instagram.com/p/CnP4VARJl-G/).</li>
+<li>✅ Link da postagem para divulgação: <a href="https://www.instagram.com/p/CnP4VARJl-G/" target="_blank">link</a>. </li>
 </ul>
 
 ### 📝 API:
