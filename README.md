@@ -23,7 +23,7 @@ E quando dissemos "o ambiente caiu"? Isso significa que tem algo de errado ou co
 - ✅ Link da postagem para divulgação (aguardando): [link]().
 
 ### 📝 DEPLOY:
-- ▶️ Significado. 
+- ▶️ O deploy é um processo complexo. Mas significa que foi instalado um "pacote" do que foi desenvolvido nos ambientes (o termo ambiente foi explicado no dicionário). É gerada uma versão para que seja disponibilizada. Esse processo também pode ser chamado de implantação dependendo do contexto. Para que essa implantação aconteça, pode ser um processo automatizado com ferramentas, ou feito manualmente, dependendo da estrutura. Acabamos aportuguesando a palavra deploy, tornando-a uma ação. Exemplo: "estou deployando a nova versão do nosso sistema". 
 - ✅ Link da postagem para divulgação (aguardando): [link]().
 
 ### 📝 JSON:
