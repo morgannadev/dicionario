@@ -37,5 +37,5 @@ A imagem é um print de um trecho de um arquivo json, abrindo chaves, o dado nom
 - ✅ Link da postagem para divulgação: [link](https://www.instagram.com/p/Clw5tvPLWV3/).
 
 ### 📝 PAIR PROGRAMMING:
-- ▶️ Significado. 
-- ✅ Link da postagem para divulgação (aguardando): [link]().
+- ▶️ Pair programming significa programação em par. É uma técnica em que duas trabalham juntas em uma tarefa. Isso ajuda na troca de conhecimento e experiência entre pessoas desenvolvedoras. "Duas cabeças pensam melhor que uma", certo? Algumas formas de aplicar pair programming: uma pessoa está mexendo no código enquanto recebe orientações da outra e elas vão trocando de posição; uma pessoa desenvolve os testes e a outra desenvolve a funcionalidade. Não encare pair programming como "desperdício". Uma boa integração e senso de apoio no time pode fazer toda a diferença na qualidade do que for entregue.
+- ✅ Link da postagem para divulgação: [link](https://www.instagram.com/p/CoS6jBWOeo6/).
