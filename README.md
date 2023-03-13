@@ -19,8 +19,8 @@ E quando dissemos "o ambiente caiu"? Isso significa que tem algo de errado ou co
 - ✅ Link da postagem para divulgação: [link](https://www.instagram.com/p/ClcKh7Qp5ho/).
 
 ### 📝 CODE REVIEW:
-- ▶️ Significado. 
-- ✅ Link da postagem para divulgação (aguardando): [link]().
+- ▶️ Code review significa revisão de código. Trata-se de uma boa prática muito indicada para o processo de desenvolvimento de sistemas, pelo qual as pessoas desenvolvedoras do time ajudam umas as outras. Normalmente, após o término da etapa de desenvolvimento de cada tarefa, antes do código ser disponibilizado para testes, o time avalia o que foi feito e dá sugestões do que pode ser melhorado, quando necessário. Isso traz diversos benefícios. Alguns deles são: melhorar a parte técnica do time, melhoria do desenvolvimento, qualidade do código, integração do time, todas as pessoas conhecem o que está sendo desenvolvido, entre outros.
+- ✅ Link da postagem para divulgação: [link](https://www.instagram.com/p/CpvjyyGOw72/).
 
 ### 📝 COMMIT:
 - ▶️ Significado. 
@@ -39,3 +39,7 @@ A imagem é um print de um trecho de um arquivo json, abrindo chaves, o dado nom
 ### 📝 PAIR PROGRAMMING:
 - ▶️ Pair programming significa programação em par. É uma técnica em que duas trabalham juntas em uma tarefa. Isso ajuda na troca de conhecimento e experiência entre pessoas desenvolvedoras. "Duas cabeças pensam melhor que uma", certo? Algumas formas de aplicar pair programming: uma pessoa está mexendo no código enquanto recebe orientações da outra e elas vão trocando de posição; uma pessoa desenvolve os testes e a outra desenvolve a funcionalidade. Não encare pair programming como "desperdício". Uma boa integração e senso de apoio no time pode fazer toda a diferença na qualidade do que for entregue.
 - ✅ Link da postagem para divulgação: [link](https://www.instagram.com/p/CoS6jBWOeo6/).
+
+### 📝 PULL REQUEST:
+- ▶️ Significado. 
+- ✅ Link da postagem para divulgação (aguardando): [link]().
