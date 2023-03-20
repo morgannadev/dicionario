@@ -23,7 +23,7 @@ E quando dissemos "o ambiente caiu"? Isso significa que tem algo de errado ou co
 - ✅ Link da postagem para divulgação: [link](https://www.instagram.com/p/CpvjyyGOw72/).
 
 ### 📝 COMMIT:
-- ▶️ Significado. 
+- ▶️ Quando se trabalha com versionamento de código (o que é altamente recomendado), a palavra commit é bastante comum entre as pessoas desenvolvedoras. Mas essa palavra também é utilizada por quem atua em banco de dados. Quando se tem um conjunto de alterações feitas em um código, a pessoa faz o comando commit que "salva" o que foi feito dentro do projeto. Existe também o commit semântico, que significa que esse conjunto de alterações deve ter um significado para o projeto. O commit também serve para finalizar uma transação dentro de um sistema de gerenciamento de banco de dados, tornando visíveis as alterações. Essa transação normalmente vai começar com "begin" e finalizar com "commit". 
 - ✅ Link da postagem para divulgação (aguardando): [link]().
 
 ### 📝 DEPLOY:
